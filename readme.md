@@ -60,11 +60,16 @@ Csgo|198|1
 Pubg|98|2
 LOL|218|3
 
-游戏名|价格|排行
-||
-Csgo|198|1
-Pubg|98|2
-LOL|218|3
+## 插入代码片段
 
+```c
+  #include<stdio.h>
+  int main()
+  {
+	printf("666");
+	return 0;
+  }
+
+```
 
 
