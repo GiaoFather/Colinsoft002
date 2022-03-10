@@ -108,6 +108,6 @@ LOL|218|3
 
 ## 文章中插入图片
 
-![wallpaper](C://Users//86188//Pictures//wallpaper)
-
+![wallpaper](C://Users//86188//Pictures//wallpaper)<br>
+![wallpaper.jpg](https://s2.loli.net/2022/03/10/PAokb5fZx2lOh8n.jpg)
 
