@@ -106,4 +106,8 @@ LOL|218|3
 [github](https://www.github.com "跳转到github")<br>
 
 
+## 文章中插入图片
+
+![wallpaper](C://Users//86188//Pictures//wallpaper)
+
 
