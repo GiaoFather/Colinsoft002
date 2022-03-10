@@ -72,4 +72,30 @@ LOL|218|3
 
 ```
 
+```bash
+   sudo su
+   echo "666"
+   cd "path"
+
+```
+
+```cpp
+   #include<iostream>
+   using namespace std;
+   int main()
+   {
+	cout<<666<<endl;
+	return 0;
+   }
+
+```
+
+```python
+  import os
+  def test():
+  	print("666")
+  if__name__ == '__main__':
+  	test()
+```
+
 
